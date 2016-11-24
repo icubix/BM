@@ -1,0 +1,29 @@
+h1,h2,h3,h4,h5,h6{ margin:0; padding:0}
+ul,li{ margin: 0; padding: 0;}
+a, a:hover{ color: inherit; text-decoration: none;}
+header{ background:#144f5c; padding:10px 0;}
+header img{padding:10px 20px }
+.sign-in{ border:1px solid #000; background:#fff9e6; border-radius:5px; margin:120px auto 0; max-width:600px; width: 100%;}
+.sign-in h3{ background:#76a5af; border-bottom:1px solid #000;border-radius:5px; font-size:18px; color:#FFF; padding: 5px 0 5px 10px;}
+.sign-in-form{ padding: 50px 90px;}
+.sign-in-form label{ font-size:18px; color:#383d44; width: 25%; padding-top:20px;}
+.sign-in-form input[type="text"]{ margin-left:24px; margin-top:20px; width: 68%; border:1px solid #383838; padding-left:5px;}
+.sign-in-form input[type="password"]{ margin-left:24px; margin-top:20px; width: 68%; border:1px solid #383838; padding-left:5px;}
+
+.sign-in-form .submit-button{ background:#b7d7a8; width: 100%; border:1px solid #727770; font-size:18px; padding:5px 0; border-radius:5px; margin-top:25px;}
+.sign-in-form span{ font-size:18px; color:#393939; display:inline-block; float:left; margin-top:7px;}
+.sign-in-form .box{ margin-right:10px}
+.sign-in-form a{ font-size:15px;color:#393939; display:block; float:right; padding:1px 30px; background:#dddddd; text-decoration:none;border:1px solid #727770; border-radius:3px;}
+.remember{ margin-top:50px;}
+
+.search{ text-align:center; margin-top:10px }
+.search .search-item{ float: left;font-size: 18px;padding: 7px 0 7px 5px;width:650px; border:none;}
+.search .btn{ background: #dddddd;border-radius: 0;float: left;font-size: 18px;}
+.logout{ margin-top:10px;}
+.logout input{background: #dddddd;border-radius: 0;font-size: 18px; border:none;padding: 7px 20px;}
+
+.sidebar ul{ border:1px solid #000; border-radius:3px; background:#b7d7a8; margin-top:30px}
+.sidebar ul li a{ border-bottom:1px solid #000; font-size: 18px; display: block; line-height: 30px; padding: 5px 0 5px 10px; display: block; color: #000;}
+.sidebar ul li{ list-style: none; }
+.sidebar ul li:last-child a{ border:none}
+.sidebar ul + ul{background:#9fc5f8;}
